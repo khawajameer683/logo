@@ -1,0 +1,31 @@
+#div0{
+    margin: 0;
+    padding: 10px;  
+    display: inline; 
+}
+#div2{
+    background-color: beige;
+    width: 160px;
+    height: 100px;
+    padding: 5px;
+}
+#div22{
+    background-color: beige;
+    width: 160px;
+    height: 100px;
+    padding: 5px;
+    float: right;
+}
+#div33{
+    background-color: beige;
+    width: 160px;
+    height: 100px;
+    padding: 5px;
+    float:;
+}
+#div12{
+    background-color: beige;
+    width: 500px;
+    height: 150px;
+    padding: 10px;
+}
